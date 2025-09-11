@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://endform.dev/endform-logo-wordmark-colored-on-light.svg" alt="Endform Logo" width="200" />
+  <img src="https://endform.dev/endform-logo-wordmark-colored-on-light.svg" alt="Endform Logo" width="600" />
 </div>
 
 ## [endform.dev](https://endform.dev)
