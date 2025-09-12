@@ -11,20 +11,25 @@
 Endform lets you launch hundreds of browsers and test critical user flows with results in seconds.
 We've reimagined E2E test performance so your suite speed is only bottlenecked by your slowest test.
 
-## Key Features
+## Key features
 
-- **🔥 (Un)paralleled Performance** - Run all Playwright tests simultaneously
-- **🛠️ Zero Setup** - Bring your existing Playwright suite as-is
-- **📊 Smart Analytics** - Identify flaky tests and errors with historical data  
+- **🔥 (Un)paralleled performance** - Run all Playwright tests simultaneously
+- **🛠️ Zero setup** - Bring your existing Playwright suite as-is
+- **📊 Smart analytics** - Identify flaky tests and errors with historical data
 - **💰 Pay-per-use** - Only pay for actual test runtime
 
-## Getting Started
+## Getting started
 
 ```bash
 npx endform@latest test
 ```
 
 No jumping through hoops. Global setup, Playwright projects, custom dependencies - we support your favorite Playwright features out of the box.
+
+## Other key repositories
+
+- [The docs](https://github.com/endformdev/docs)
+- [Playwright tutorial](https://github.com/endformdev/playwright-tutorial)
 
 ---
 
