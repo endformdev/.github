@@ -33,4 +33,7 @@ No jumping through hoops. Global setup, Playwright projects, custom dependencies
 
 ---
 
-[**Get started for free**](https://endform.dev) • [**Schedule a demo**](https://calendar.notion.so/meet/jakobnorlin/endform-product-demo) • [**Read our blog**](https://endform.dev/blog)
+[**Get started for free**](https://endform.dev?utm_source=github&utm_medium=referral&utm_content=org_profile_readme) • [**Schedule a demo**](https://calendly.com/meet-with-endform/30min?utm_source=github&utm_medium=referral&utm_content=org_profile_readme) • [**Read our
+  blog**](https://endform.dev/blog?utm_source=github&utm_medium=referral&utm_content=org_profile_readme)
+
+
